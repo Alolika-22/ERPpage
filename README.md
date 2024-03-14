@@ -34,3 +34,5 @@ dashboard: Styles the container for the dashboard content, setting its width to 
 metrics: Uses flexbox to display the metrics side by side with space evenly distributed between them.
 actions: Styles the container for action buttons and individual buttons, respectively, defining padding, background color, text color, border radius, and hover effects.
 
+When we click on the order management then this page is visible 
+
