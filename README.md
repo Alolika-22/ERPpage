@@ -20,3 +20,17 @@ The buttons are interactive and serve as links to different pages of the ERP sys
 
 When we click on the dashboard then this page is visible
 
+![image](https://github.com/Alolika-22/ERPpage/assets/76674148/9abc11e9-e15d-430a-aa06-cc98129f2998)
+
+HTML Structure:
+<meta name="viewport" content="width=device-width, initial-scale=1.0">: Defines the viewport settings for responsive web design.
+<title>Dashboard</title>: Sets the title of the webpage displayed in the browser tab.
+<link rel="stylesheet" href="styles.css">: Links an external CSS stylesheet named "styles.css" to apply styling to the HTML content.
+
+CSS Styling:
+
+body: Resets margin and padding to zero, sets the font family to Arial or sans-serif, and specifies a background color for the entire webpage.
+dashboard: Styles the container for the dashboard content, setting its width to 80% of the viewport, centering it horizontally, applying padding, border radius, and box shadow, and setting its background color.
+metrics: Uses flexbox to display the metrics side by side with space evenly distributed between them.
+actions: Styles the container for action buttons and individual buttons, respectively, defining padding, background color, text color, border radius, and hover effects.
+
