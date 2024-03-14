@@ -36,3 +36,21 @@ actions: Styles the container for action buttons and individual buttons, respect
 
 When we click on the order management then this page is visible 
 
+![image](https://github.com/Alolika-22/ERPpage/assets/76674148/7a403dcb-6c60-4311-b99b-72fdba4c25b2)
+
+HTML Structure:
+<head>: Contains links to external resources such as stylesheets and scripts.
+<meta charset="UTF-8">: Sets the character encoding of the document to UTF-8.
+<meta name="viewport" content="width=device-width, initial-scale=1.0">: Defines the viewport settings for responsive web design.
+<title>Order Management</title>: Sets the title of the webpage displayed in the browser tab.
+<link rel="stylesheet" href="styles3.css">: Links an external CSS stylesheet named "styles3.css" to apply styling to the HTML content.
+<body>: Contains the visible content of the webpage.
+CSS Styling:
+
+body: Resets margin and padding to zero, sets the font family to Arial or sans-serif, and specifies a background color for the entire webpage.
+.container: Styles the container for the order management content, setting its width to 80% of the viewport and it horizontally with margin.
+h1, h2: Centers the heading elements (h1 and h2) within their parent containers.
+.order-list table: Styles the table used to display the list of orders, setting its width to 100%, collapsing borders, and adding margin to the bottom for spacing.
+.order-list th, .order-list td: Styles the table header cells (th) and table data cells (td), setting border, padding, and text alignment.
+.order-list th: Styles the table header cells specifically, setting a background color to differentiate them from regular cells.
+
